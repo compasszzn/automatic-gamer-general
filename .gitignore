@@ -1,0 +1,5 @@
+# Codely CLI 本地状态（聊天自动保存）
+.codely-cli/
+
+# macOS
+.DS_Store
